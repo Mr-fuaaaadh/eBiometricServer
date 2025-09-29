@@ -49,15 +49,6 @@ attendance_system/
 - eSSL Biometric Device with eBioServerNew Web Service
 - Docker & Docker Compose (for container deployment)
 
-## 🚀 Quick Start
-### 1. Clone and Setup
-```bash
-git clone <repository-url>
-cd attendance_system
+# (Continue pasting all your README content here)
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
+EOF
