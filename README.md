@@ -49,6 +49,8 @@ attendance_system/
 - eSSL Biometric Device with eBioServerNew Web Service
 - Docker & Docker Compose (for container deployment)
 
-# (Continue pasting all your README content here)
-
-EOF
+## 🚀 Quick Start
+1. Clone the repo:
+```bash
+git clone <repository-url>
+cd attendance_system
